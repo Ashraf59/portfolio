@@ -1,0 +1,13 @@
+.bg-color{
+    background-color: #090A1A;
+}
+.color{
+    color: #5D79FE;
+}
+.hovercolor{
+    color: white;
+}
+.hovercolor:hover{
+    color: #5D79FE;
+    cursor: pointer;
+}

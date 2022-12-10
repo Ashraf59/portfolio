@@ -1,0 +1,25 @@
+.banner-bg{
+    background-color: #090A1A;
+}
+.divid{
+color: #5D79FE;
+}
+
+.btnColor{
+    background-color: #5D79FE;
+    padding: 8px 12px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.logosize{
+    font-size: 25px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.img-size{
+    width: 700px;
+    height: 500px;
+}
