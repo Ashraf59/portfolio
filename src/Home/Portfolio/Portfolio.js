@@ -7,7 +7,7 @@ import techlearn from '../../assets/portfolio/techlearn.png';
 const Portfolio = () => {
     return (
         <div className='p-12 portfolio-bg'>
-            <h2 className='text-8xl font-bold text-gray-700'>Portfolio</h2>
+            <h2 className='lg:text-8xl text-5xl font-bold text-gray-700'>Portfolio</h2>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-items-center mt-10 gap-6'>
             <div className="card w-96 bg-base-100 shadow-lg shadow-indigo-500/50">
              <figure><img src={mobile} alt="Mobile-Bazar" />                </figure>
